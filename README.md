@@ -29,4 +29,10 @@ This was a comprehensive tutorial, which really deepened my understanding of how
 
 ## Screenshot
 
-To follow
+### Welcome page
+
+<img src="images/home_screenshot.png">
+
+### Micropost feed
+
+<img src="images/postfeed_screenshot.png">
