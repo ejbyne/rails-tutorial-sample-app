@@ -1,3 +1,6 @@
+[![Code Climate](https://codeclimate.com/github/ejbyne/rails-twitter/badges/gpa.svg)](https://codeclimate.com/github/ejbyne/rails-twitter)
+[![Test Coverage](https://codeclimate.com/github/ejbyne/rails-twitter/badges/coverage.svg)](https://codeclimate.com/github/ejbyne/rails-twitter)
+
 # Ruby on Rails Tutorial: Twitter Clone
 
 ## Summary
@@ -24,6 +27,9 @@ This was a comprehensive tutorial, which really deepened my understanding of how
 
 - Ruby
 - Rails
+- SQLite
+- ActiveRecords
+- MiniTest
 - HTML
 - SASS
 
